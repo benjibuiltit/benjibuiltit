@@ -1,4 +1,4 @@
-![BENJI BUILT IT](https://user-images.githubusercontent.com/44608192/146693180-9d5edb0e-6046-46f3-a230-40e318aa1d46.png)(https://www.notion.so/benjibuiltit/Projects-f55f6f441de24d7abb6cf93806ad89fd)
+![BENJI BUILT IT](https://user-images.githubusercontent.com/44608192/146693180-9d5edb0e-6046-46f3-a230-40e318aa1d46.png)
 <!--
 **benjibuiltit/benjibuiltit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
