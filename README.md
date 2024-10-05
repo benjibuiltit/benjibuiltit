@@ -12,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some things I enjoy:
+- Coding
+- Waterskiing
+- Conversing
+- Learning
+- Eating (seafood & barbecue particularly)
+
+Some things I don't enjoy:
+- Bikeshedding
+- Gaming
+- Cooking
